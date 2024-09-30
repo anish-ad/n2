@@ -5,7 +5,7 @@
     padding: 0;
 }
 .sidebar{
-    background-color: rgb(222, 212, 223);
+    background-color: rgb(222, 212, 223); 
     width: 434px;
     font-family: "Protest Guerrilla", sans-serif;
     font-weight: 400;
@@ -29,10 +29,10 @@
 }
 .container{
     display: flex;
-    background-color: lavender;
+    /* background-color: lavender;*/
 }
 .infoContainer{
-    background-color: rgb(230, 232, 235);
+    /* background-color: rgb(230, 232, 235);  */
     height: 58vh;
     width: 80vw;
     margin: 144px auto;
